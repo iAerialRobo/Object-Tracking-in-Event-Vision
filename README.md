@@ -9,4 +9,4 @@ Nengbo Zhang, Hann Woei Ho*, Ye Zhou, Object Tracking in Event Vision: An In-dep
 
 # main content 
 This project includes several domain event data visualization methods. It can be found in ex2_events_vialization.py and ex2_events_viz.ipynb files. 
-Besides, there are some 3D event data visualization methods can be found in project3D.py and visualize3D.py. 
+Besides, there are some 3D event data visualization methods can be found in project3D.py and visualize3D.py. if there is any problem, please contact email: bookerznb@gmail.com.
